@@ -12,7 +12,7 @@ This repo is intended as the python implementation of the Google's [GPS Measurem
 
 This repo consist of the following
 
-* **ProcessRanges.ipynb** - explains how to calculate pseudoranges from Android N data
+* **ProcessRanges.ipynb** - explains how to calculate pseudoranges from Android N data. This is python 3.x code
 
 ## Background informations
 
